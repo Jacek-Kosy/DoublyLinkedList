@@ -35,4 +35,4 @@ I prepared the following functions to simplify operations on the list:
 	
   destructor for deleting all the nodes including sentinel
  
-The main function contains code created for testing purposes.
+The main function contains code written for testing purposes.
